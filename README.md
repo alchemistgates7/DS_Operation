@@ -14,3 +14,5 @@ The dataset is loaded from:
 
 ```python
 ../data/IRIS.csv
+
+后续可以实现一个页面，通过页面让用户输入信息，进行鸢尾花的预测
